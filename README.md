@@ -47,6 +47,15 @@ A beautiful web application that calculates **numerical values of Hebrew names**
 
 ---
 
+## 🌟 Philosophy
+_"To be a composer, knowing notes is not enough.  
+To be a writer, knowing letters is not enough.  
+To be a programmer, knowing commands is not enough."_
+
+This quote reflects my approach to life and work: true mastery comes from creativity, understanding, and passion, not just technical skills.
+
+---
+
 ## 🌟 Fun Facts
 - 🏠 A large part of my telephony system runs on **Raspberry Pi** servers, showcasing the power of compact and efficient hardware.
 - 📖 I spend most of my day teaching **Talmud** to students at a Yeshiva, blending technology with tradition.
