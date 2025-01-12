@@ -1,76 +1,70 @@
-# 👋 Welcome to Yossef Haim's GitHub!
+# 👋 Welcome to Yossef Haim's World of Innovation
 
 ## 🧑‍💻 About Me
-I’m **Yossef Haim**, a passionate **PHP Developer**, **Educator**, and creator of impactful technological solutions.
+I'm **Yossef Haim**, a passionate technology innovator who combines the world of programming with education. By day, I teach Talmud at a local Yeshiva, inspiring the next generation. By night, I craft technological solutions that make a real difference in people's lives.
 
-In **2017**, I founded **ICALL**, where I developed cutting-edge telephony services. Our flagship product, **[Virtual Mail](https://email36.com)**, empowers thousands of users daily, particularly visually impaired individuals and those without access to smartphones or screens. My focus is on **bridging accessibility gaps** through technology.
+I consider myself a programmer rather than just a coder - because programming is about understanding problems and crafting elegant solutions, not just writing lines of code.
 
-Beyond coding, I dedicate most of my time to **teaching Talmud** to my students at a local Yeshiva, where I aim to inspire and guide the next generation.
-
----
-
-## 🌟 What I Do
-- **PHP Development**: Building robust, scalable, and user-centric applications.
-- **Telephony Solutions**: Innovating accessible tools like [Virtual Mail](https://email36.com) for those who need it most.
-- **Creative Projects**: Developed a unique [Gematria Calculator](https://gimatrion.com) to calculate the numerical values of Hebrew names, especially for **grooms and brides** (חתן וכלה).
-
----
-
-## 🛠️ Skills & Tools
-I work with a wide range of technologies and tools, including:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Asterisk](https://img.shields.io/badge/Asterisk-F66733?style=for-the-badge&logo=asterisk&logoColor=white)
-![Kamailio](https://img.shields.io/badge/Kamailio-000000?style=for-the-badge&logo=kamailio&logoColor=white)
-
----
+## 🌟 Professional Journey
+In **2017**, I founded **ICALL**, developing innovative telephony solutions. Our flagship product, **[Virtual Mail](https://email36.com)**, serves thousands of users daily across Israel, the United States, the United Kingdom, Belgium, and beyond. Before that, I served as the lead developer for OUTNET (Israel), where I architected and implemented their entire digital infrastructure, including web platforms and telephony systems.
 
 ## 🚀 Featured Projects
-### [Virtual Mail](https://email36.com)  
-A revolutionary telephony solution used by thousands every day, designed to empower **visually impaired users** and individuals without access to screens or smartphones.
 
-### [Gematria Calculator](https://gimatrion.com)  
-A beautiful web application that calculates **numerical values of Hebrew names**, especially for **grooms and brides** (חתן וכלה).
+### [Virtual Mail](https://email36.com)
+A comprehensive telephony solution enabling email access through phone calls, primarily serving users who don't have access to smartphones or screens. Currently empowering thousands of users across multiple countries.
 
----
+### [Gematria Calculator](https://gimatrion.com)
+A specialized web application for calculating numerical values of Hebrew names, particularly designed for wedding preparations (חתן וכלה).
 
-## 📫 Get in Touch
-- **Email**: [contact@i-call.me](mailto:contact@i-call.me)  
+## 🛠️ Technical Expertise
+
+### Core Technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Telephony Infrastructure
+- Asterisk
+- Kamailio
+- Custom telephony framework
+- VoIP Solutions
+- SIP Protocol
+- WebRTC
+
+### Service Integrations
+- Mailgun
+- Stripe
+- Telnyx
+- Twilio
+- Azure
+- Google Cloud
+- Scaleway
+
+## 📦 Open Source Contributions
+I maintain several Docker images for Asterisk servers, helping developers quickly deploy telephony solutions. These images have enabled countless developers to create solutions for users without smartphone access.
+
+**Docker Hub**: [boyoss/asterisk-php](https://hub.docker.com/r/boyoss/asterisk-php)
+
+## 💭 Development Philosophy
+*"Programming is an art that transcends mere coding. Just as knowing musical notes doesn't make you a composer, and knowing letters doesn't make you a writer, understanding programming concepts is just the beginning. True mastery comes from the ability to transform these concepts into solutions that enhance people's lives."*
+
+## 🎯 Fun Facts
+- 🎓 I spend most of my day teaching Talmud at a Yeshiva, bridging ancient wisdom with modern technology
+- 💻 My programming journey began at age 12 with a TI-82 calculator
+- 🏠 A significant portion of my telephony system runs on Raspberry Pi servers
+- 🌍 Virtual Mail is actively used in Israel, US, UK, Belgium, Argentina, and France
+- 🔧 I've developed my own custom framework for telephony projects
+- 📚 I believe in the power of combining traditional education with technological innovation
+
+## 📫 Connect With Me
+- **Email**: [contact@i-call.me](mailto:contact@i-call.me)
 - **Website**: [email36.com](https://email36.com)
 
 ---
 
-## 🌟 Philosophy
-_"To be a composer, knowing notes is not enough.  
-To be a writer, knowing letters is not enough.  
-To be a programmer, knowing commands is not enough."_
-
-This quote reflects my approach to life and work: true mastery comes from creativity, understanding, and passion, not just technical skills.
-
----
-
-## 🌟 Fun Facts
-- 🏠 A large part of my telephony system runs on **Raspberry Pi** servers, showcasing the power of compact and efficient hardware.
-- 📖 I spend most of my day teaching **Talmud** to students at a Yeshiva, blending technology with tradition.
-- 🌍 My passion lies in **making the world more accessible** through innovative solutions.
-- 🔧 I love experimenting with **open-source technologies** and finding creative ways to solve real-world problems.
-
----
-
-## 📊 GitHub Stats
-![Yossef Haim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=showf68&show_icons=true&theme=radical)
-
----
-
-## 🧩 What’s Next?
-I'm always looking for new challenges and collaboration opportunities. If you're interested in accessibility, telephony, or creative coding, feel free to reach out!
-
----
-
+*"Making technology accessible to everyone, one solution at a time."*
