@@ -56,8 +56,6 @@ A beautiful web application that calculates **numerical values of Hebrew names**
 ---
 
 ## 📊 GitHub Stats
-> Add this section if you’d like to display your GitHub stats (requires enabling it in your profile). Here’s an example:
-
 ![Yossef Haim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=showf68&show_icons=true&theme=radical)
 
 ---
