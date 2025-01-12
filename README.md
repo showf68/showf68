@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/showf68/showf68/refs/heads/main/assets/banner.webp" alt="Yossef Haim's Banner" width="800">
+
 # 👋 Welcome to Yossef Haim's World of Innovation
 
 ## 🧑‍💻 About Me
