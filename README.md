@@ -1,17 +1,23 @@
-# 👋 Hello, I'm Yossef Haim!
+# 👋 Welcome to Yossef Haim's GitHub!
 
 ## 🧑‍💻 About Me
-I'm a **PHP Developer** and an **Educator**, passionate about creating meaningful and accessible solutions for people who need them the most.
+I’m **Yossef Haim**, a passionate **PHP Developer**, **Educator**, and creator of impactful technological solutions.
 
-In **2017**, I founded **ICALL**, a company dedicated to developing telephony services. Our flagship product, **Virtual Mail**, along with other innovative solutions, is used daily by thousands worldwide. These tools empower individuals without access to screens or smartphones—especially **visually impaired users**—to stay connected and informed.
+In **2017**, I founded **ICALL**, where I developed cutting-edge telephony services. Our flagship product, **[Virtual Mail](https://email36.com)**, empowers thousands of users daily, particularly visually impaired individuals and those without access to smartphones or screens. My focus is on **bridging accessibility gaps** through technology.
 
-### 🎯 Mission
-My goal is to leverage technology to **bridge accessibility gaps**, empowering those who face technological barriers, particularly visually impaired individuals, to live more connected and informed lives.
+Beyond coding, I dedicate most of my time to **teaching Talmud** to my students at a local Yeshiva, where I aim to inspire and guide the next generation.
+
+---
+
+## 🌟 What I Do
+- **PHP Development**: Building robust, scalable, and user-centric applications.
+- **Telephony Solutions**: Innovating accessible tools like [Virtual Mail](https://email36.com) for those who need it most.
+- **Creative Projects**: Developed a unique [Gematria Calculator](https://gimatrion.com) to calculate the numerical values of Hebrew names, especially for **grooms and brides** (חתן וכלה).
 
 ---
 
 ## 🛠️ Skills & Tools
-Here are the technologies and tools I work with:
+I work with a wide range of technologies and tools, including:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,30 +26,44 @@ Here are the technologies and tools I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-F66733?style=for-the-badge&logo=asterisk&logoColor=white)
+![Kamailio](https://img.shields.io/badge/Kamailio-000000?style=for-the-badge&logo=kamailio&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
-Here are some of the projects I'm proud of:
+### [Virtual Mail](https://email36.com)  
+A revolutionary telephony solution used by thousands every day, designed to empower **visually impaired users** and individuals without access to screens or smartphones.
 
-- **[Virtual Mail](#)**  
-  A revolutionary telephony solution used by thousands daily, designed for visually impaired users and individuals without access to screens or smartphones.
-
-- **[Other Telephony Solutions](#)**  
-  Innovative tools empowering accessibility and connectivity.
-
-> *Feel free to reach out if you'd like to collaborate on similar impactful projects!*
+### [Gematria Calculator](https://gimatrion.com)  
+A beautiful web application that calculates **numerical values of Hebrew names**, especially for **grooms and brides** (חתן וכלה).
 
 ---
 
 ## 📫 Get in Touch
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
+- **Email**: [contact@i-call.me](mailto:contact@i-call.me)  
+- **Website**: [email36.com](https://email36.com)
 
 ---
 
 ## 🌟 Fun Facts
-- 📖 When not coding, I love teaching and mentoring teenagers in religious studies.  
-- 🌍 I’m passionate about making the world more accessible through technology.  
-- 🛠️ I enjoy tinkering with **Raspberry Pi** and experimenting with creative projects.
+- 🏠 A large part of my telephony system runs on **Raspberry Pi** servers, showcasing the power of compact and efficient hardware.
+- 📖 I spend most of my day teaching **Talmud** to students at a Yeshiva, blending technology with tradition.
+- 🌍 My passion lies in **making the world more accessible** through innovative solutions.
+- 🔧 I love experimenting with **open-source technologies** and finding creative ways to solve real-world problems.
+
+---
+
+## 📊 GitHub Stats
+> Add this section if you’d like to display your GitHub stats (requires enabling it in your profile). Here’s an example:
+
+![Yossef Haim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🧩 What’s Next?
+I'm always looking for new challenges and collaboration opportunities. If you're interested in accessibility, telephony, or creative coding, feel free to reach out!
+
+---
+
